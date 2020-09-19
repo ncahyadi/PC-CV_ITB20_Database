@@ -15,5 +15,5 @@ Information Gathering:
 2. Video Requirements
 Video should meet the criteria.
    a. Camera positioning\
-   https://github.com/ncahyadi/PC-CV_ITB20_Database/blob/master/inclined%20camera%20position.JPG
+   ![](inclined camera position.JPG)\
 3. Frame's Information
