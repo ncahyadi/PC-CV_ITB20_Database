@@ -25,6 +25,8 @@ taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=
    The videos sould have more than 12 fps.
    c. File's format
    For uniformity purposes, the videos should in mp4/avi format.
-3. Frame's Information
+3. Frame's Information\
    a. Object Flows\
 ![](flow.JPG)\
+   Example:\
+   
