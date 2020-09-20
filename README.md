@@ -17,12 +17,15 @@ Video should meet the criteria.\
    a. The origin of the video\
    The video should be a legal video.\
    The video taken from entrance gate, coridor (should meet the frame information's requirements), and other places as many as you could find.\
+   \
    b. Quality\
    The video should have a good quality (no corrupted file)\
-   No virus infected files\ 
+   No virus infected files\
+   \
    c. Camera positioning\
    Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
+\
    Example:\
 ![](positioning.png)\
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
