@@ -17,16 +17,19 @@ Video should meet the criteria.\
    a. The origin of the video\
    The video should be a legal video.\
    The video taken from entrance gate, coridor (should meet the frame information's requirements), and other places as many as you could find.\
-   b. Camera positioning\
+   b. Quality\
+   The video should have a good quality (no corrupted file)\
+   No virus infected files\ 
+   c. Camera positioning\
    Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
    Example:\
 ![](positioning.png)\
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
 \
-   b. Frame rates per second
+   d. Frame rates per second
    The videos sould have more than 12 fps.
-   c. File's format
+   e. File's format
    For uniformity purposes, the videos should in mp4/avi format.
 3. Frame's Information\
    a. Object Flows\
@@ -36,6 +39,7 @@ taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
 \
    b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.\
+   c. The lighting should be good enough to see by human eye (no backlight)\
 4. Uploading Video\
    For all contributors, can contact me (en.nanangcahyadi@gmail.com) for sending the videos. And check out the dataset here()
    
