@@ -35,5 +35,5 @@ taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=
 ![](flow2.png)
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
 \
-   b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.\
+   b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.
    
