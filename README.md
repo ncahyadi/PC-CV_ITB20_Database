@@ -13,7 +13,7 @@ Information Gathering:
 1. Contributors
 
 2. Video Requirements
-Video should meet the criteria.
+Video should meet the criteria.\
    a. Camera positioning\
-   ![]("inclined camera position.JPG")\
+   ![](inclined camera position.JPG)\
 3. Frame's Information
