@@ -14,7 +14,10 @@ Information Gathering:
 
 2. Video Requirements
 Video should meet the criteria.\
-   a. Camera positioning\
+   a. The origin of the video\
+   The video should be a legal video.\
+   The video taken from entrance gate, coridor (should meet the frame information's requirements), and other places as many as you could find.\
+   b. Camera positioning\
    Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
    Example:\
@@ -31,5 +34,6 @@ taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=
    Example:\
 ![](flow2.png)
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
-   b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.
+\
+   b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.\
    
