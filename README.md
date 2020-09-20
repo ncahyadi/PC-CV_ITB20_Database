@@ -27,7 +27,7 @@ Video should meet the criteria.\
 ![](positioning.png)\
 taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
 \
-   d. Frame rates per second
+   d. Frame rates per second\
    The videos sould have more than 12 fps.
    e. File's format
    For uniformity purposes, the videos should in mp4/avi format.
