@@ -15,5 +15,5 @@ Information Gathering:
 2. Video Requirements
 Video should meet the criteria.
    a. Camera positioning\
-   ![](inclined camera position.JPG)\
+   ![](inclined_camera_position.JPG)\
 3. Frame's Information
