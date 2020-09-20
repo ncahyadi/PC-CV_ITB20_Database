@@ -18,11 +18,15 @@ Video should meet the criteria.\
    Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
    Example:\
-   
+![](positioning.png)\
+taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=66s \
+\
    b. Frame rates per second
    The videos sould have more than 12 fps.
    c. File's format
    For uniformity purposes, the videos should in mp4/avi format.
-3. Frame's Information
+3. Frame's Information\
    a. Object Flows\
 ![](flow.JPG)\
+   Example:\
+   
