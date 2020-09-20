@@ -18,7 +18,7 @@ Video should meet the criteria.\
    Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
    Example:\
-![](positioning.PNG)\
+![](positioning.png)\
    b. Frame rates per second
    The videos sould have more than 12 fps.
    c. File's format
