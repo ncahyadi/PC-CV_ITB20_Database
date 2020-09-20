@@ -15,7 +15,14 @@ Information Gathering:
 2. Video Requirements
 Video should meet the criteria.\
    a. Camera positioning\
+   Video should taken from inclined camera.
 ![](inclined_camera_position.JPG)\
-   b. Object Flows\
-![](flow.JPG)\
+   Example:\
+   
+   b. Frame rates per second
+   The videos sould have more than 12 fps.
+   c. File's format
+   For uniformity purposes, the videos should in mp4/avi format.
 3. Frame's Information
+   a. Object Flows\
+![](flow.JPG)\
