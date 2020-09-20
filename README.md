@@ -16,4 +16,6 @@ Information Gathering:
 Video should meet the criteria.\
    a. Camera positioning\
 ![](inclined_camera_position.JPG)\
+   b. Object Flows\
+![](flow.JPG)\
 3. Frame's Information
