@@ -41,5 +41,8 @@ taken from : HDSecurityStore. url:https://www.youtube.com/watch?v=-IvBKBx0UBo&t=
    b. Inside the frame should contain information about the image of people, in and out scenario, and other scenario as many as you could find.\
    c. The lighting should be good enough to see by human eye (no backlight)\
 4. Uploading Video\
-   For all contributors, can contact me (en.nanangcahyadi@gmail.com) for sending the videos. And check out the dataset here()
+   For all contributors, can contact me (en.nanangcahyadi@gmail.com)\
+   Subject: (place of video taken from)_(contributor's name) \
+   for sending the videos.\
+   And check out the dataset here()
    
